@@ -6,6 +6,8 @@
 
 1.1.0: Demonstrates the usage of the Icon API in PHP
 
+1.2.0: Implements the Icon API using Fluid 
+
 ## Installation
 
 Add via composer:
