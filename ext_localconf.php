@@ -11,5 +11,5 @@ ExtensionUtility::configurePlugin(
     ],
     [
         IconController::class => 'assignIcons'
-    ],
+    ]
 );

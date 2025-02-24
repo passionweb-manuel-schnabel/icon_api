@@ -8,4 +8,5 @@ $pluginKey = ExtensionUtility::registerPlugin(
     'IconApi',
     'IconProvider',
     'LLL:EXT:icon_api/Resources/Private/Language/locallang.xlf:plugin.iconProvider',
+    'tx-passionweb-svg'
 );

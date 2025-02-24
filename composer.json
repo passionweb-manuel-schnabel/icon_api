@@ -1,6 +1,6 @@
 {
   "name": "passionweb/icon-api",
-  "description": "",
+  "description": "Implementation and usage showcase for the TYPO3 Icon API",
   "type": "typo3-cms-extension",
   "minimum-stability": "stable",
   "version": "1.0.0",

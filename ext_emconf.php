@@ -2,7 +2,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Icon API',
-    'description' => '',
+    'description' => 'Implementation and usage showcase for the TYPO3 Icon API',
     'category' => 'be',
     'author' => 'Manuel Schnabel',
     'author_email' => 'service@passionweb.de',

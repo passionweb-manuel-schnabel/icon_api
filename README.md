@@ -2,7 +2,7 @@
 
 ## What does it do?
 
-1.0.0: Usage of Icon API the PHP way including IconController
+1.0.0: Implements IconProvider Plugin, IconController and corresponding Plugin Icon
 
 ## Installation
 

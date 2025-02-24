@@ -4,7 +4,7 @@
         <header/>
         <body>
             <trans-unit id="plugin.iconProvider">
-                <source>Icon Provider Plugin</source>
+                <source>Icon Provider Plugin </source>
             </trans-unit>
         </body>
     </file>
