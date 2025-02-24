@@ -3,7 +3,7 @@
   "description": "Implementation and usage showcase for the TYPO3 Icon API",
   "type": "typo3-cms-extension",
   "minimum-stability": "stable",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://www.passionweb.de",
   "authors": [
     {

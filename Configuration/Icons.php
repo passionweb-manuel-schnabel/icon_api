@@ -10,4 +10,8 @@ return [
         'provider' => SvgIconProvider::class,
         'source' => 'EXT:icon_api/Resources/Public/Icons/Passionweb.svg',
     ],
+    'tx-passionweb-png' => [
+        'provider' => BitmapIconProvider::class,
+        'source' => 'EXT:icon_api/Resources/Public/Icons/Passionweb.png',
+    ],
 ];

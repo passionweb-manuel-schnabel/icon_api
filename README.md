@@ -4,6 +4,8 @@
 
 1.0.0: Implements IconProvider Plugin, IconController and corresponding Plugin Icon
 
+1.1.0: Demonstrates the usage of the Icon API in PHP
+
 ## Installation
 
 Add via composer:
