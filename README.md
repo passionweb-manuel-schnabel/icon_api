@@ -8,6 +8,8 @@
 
 1.2.0: Implements the Icon API using Fluid 
 
+1.3.0: Showcases the Icon API being used in the backend with the help of JavaScript
+
 ## Installation
 
 Add via composer:
